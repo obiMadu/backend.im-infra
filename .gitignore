@@ -13,4 +13,4 @@ venv
 *.kubeconfig
 kubeconfig.yaml
 .kube/
-
+gitlab*
