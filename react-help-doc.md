@@ -39,7 +39,7 @@ The workflow is:
 ### Basic Connection Example
 
 ```javascript
-const socket = new WebSocket('ws://brain.obimadu.pro/ws');
+const socket = new WebSocket('ws://orc.backend.im/ws');
 
 socket.onopen = () => {
   console.log('Connected to WebSocket server');
